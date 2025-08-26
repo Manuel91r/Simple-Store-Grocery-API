@@ -1,5 +1,5 @@
 # Simple-Store-Grocery-API
-Collection of practice requests for API testing, including their corresponding test validation for earch request.
+Collection of practice requests for API testing, including their corresponding test validation for each request.
 
 Just download the Json file and import it to Postman.
 
